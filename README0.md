@@ -1,0 +1,1 @@
+Cambio color del cuadrado a azul y el color de triangulo a rojo
